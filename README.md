@@ -1,3 +1,4 @@
 # hello-world
-this file make by android9327. Thank you!
-edit by git-command!
+
+This file make by android9327. Thank you!
+Edit by git-command on Ubuntu16!
